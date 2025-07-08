@@ -35,7 +35,7 @@ This tool reviews traffic videos and automatically flags violations such as:
    - When it happened (timestamp)
 4. It generates a structured report in:
    - `JSON` format for programmatic use
-   - `Markdown` format for human-readable reports
+
 5. Real-time **violation alerts** are overlaid directly onto the video output.
 
 ---
